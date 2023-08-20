@@ -1,2 +1,2 @@
 # Forecasting-Consumer-Purchase-Intentions
-Building a machine learning model to predict if a customer will have a purchasing behaviour
+In this project, I employed the Big Data Analytics Lifecycle framework to meticulously analyze the given dataset. After identifying pivotal attributes, I executed an ETL process to ensure data integrity. Utilizing this cleansed data, I developed both Logistic Regression and Naive Bayes Classifier models to forecast customer purchasing behaviors, empowering the company with insights for strategic decision-making.
