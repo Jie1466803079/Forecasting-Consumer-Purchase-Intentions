@@ -4,6 +4,10 @@
 
 `scikit-learn` · `imbalanced-learn (SMOTE)` · `Naive Bayes & Logistic Regression`
 
+<p align="center">
+  <img src="docs/confusion-matrix.png" alt="Confusion matrices - GaussianNB vs Logistic Regression on the test set" width="620">
+</p>
+
 ## Problem
 The goal is to run an ETL process to clean the data, extract insights through visualization, and build models that predict whether a user will exhibit purchasing behaviour to support the company's strategic decisions. The stated stakeholders are the company and its clients. The initial hypotheses are that a user's gender, age, and salary may affect purchasing behaviour.
 
